@@ -25,7 +25,7 @@ namespace IdentityServer
             var builder = services.AddIdentityServer(
                  options =>
                  {
-                     //options.UserInteraction.LoginUrl = "http://localhost:5004";
+                     options.UserInteraction.LoginUrl = "http://localhost:5004";
                      //options.UserInteraction.ErrorUrl = "http://localhost:3000/error";
                      //options.UserInteraction.LogoutUrl = "http://localhost:3000/logout";
                  })

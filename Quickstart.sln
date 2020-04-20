@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcClient", "src\MvcClient\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JavaScriptClient", "src\JavaScriptClient\JavaScriptClient.csproj", "{DD8D4022-0073-40EE-84F0-8E4833522BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOSLogin", "DOSLogin\DOSLogin.csproj", "{7B0004D7-0CE1-4026-A018-5192588D63C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOSLogin", "src\DOSLogin\DOSLogin.csproj", "{7B0004D7-0CE1-4026-A018-5192588D63C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
